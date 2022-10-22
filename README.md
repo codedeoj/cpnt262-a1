@@ -5,7 +5,7 @@
 
 **Author:** Deoj Balcanao
 
-**GH Pages:** 
+**GH Pages:** https://codedeoj.github.io/cpnt262-a1/
 ## Above and Beyond
 **I used prompt() to print dynamic message to the page**
 - See line 45 client.js
